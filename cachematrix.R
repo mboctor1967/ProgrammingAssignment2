@@ -1,7 +1,8 @@
 
 makeCacheMatrix <- function(x = matrix()) {
-  inv = NULL
-  
+  #this is a function that creates matrix
+  #testing commit ...testing
+  inv = NULL 
   set = function(y) {
     x <<- y
     inv <<- NULL
